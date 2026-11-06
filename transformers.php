@@ -31,7 +31,7 @@ include 'include/header.php';
                  data-wow-duration="1500ms">
 
                 <div class="details-content">
-                    <span class="d-block mb-3">PRAG ELECTRICALS PVT. LTD.</span>
+                    <!-- <span class="d-block mb-3">PRAG ELECTRICALS PVT. LTD.</span> -->
 
                     <h2>Distribution &amp; Power Transformers</h2>
 

@@ -258,152 +258,134 @@ document.addEventListener('DOMContentLoaded', function () {
             </a> -->
         </div>
 
-        <div class="prag-locations-grid">
+<div class="prag-locations-grid">
 
-<div class="prag-location-card">
-    <div class="prag-location-card-header">
-        <div class="prag-location-company-icon">
-            <i class="bi bi-buildings"></i>
-        </div>
-        <h3>Prag Electricals Pvt. Ltd.</h3>
-    </div>
-
-    <!-- Head Office -->
-    <div class="prag-location-address">
-        <div class="prag-location-detail-icon">
-            <i class="bi bi-geo-alt-fill"></i>
-        </div>
-        <div class="prag-location-detail-content">
-            <span>HEAD OFFICE</span>
-            <p>
-                Prag Electricals Pvt. Ltd., Shed No. 47,<br>
-                Bamunimaidan Industrial Estate, Bylane 06,<br>
-                Guwahati, Assam - 781021
-            </p>
-            <a href="https://www.google.com/maps/search/?api=1&query=Prag+Electricals+Shed+47+Bamunimaidan+Industrial+Estate+Guwahati"
-               target="_blank" rel="noopener noreferrer">
-                View on Google Maps
-                <i class="bi bi-box-arrow-up-right"></i>
-            </a>
-        </div>
-    </div>
-
-    <!-- Works / Factory Offices -->
-    <div class="prag-location-address">
-        <div class="prag-location-detail-icon">
-            <i class="bi bi-factory"></i>
-        </div>
-        <div class="prag-location-detail-content">
-            <span>WORKS / FACTORY OFFICES</span>
-
-            <p>
-                <strong>1. Bamunimaidan Works</strong><br>
-                Bamunimaidan Industrial Estate, Bylane 06,<br>
-                Guwahati, Assam - 781021
-            </p>
-            <a href="https://www.google.com/maps/search/?api=1&query=Bamunimaidan+Industrial+Estate+Bylane+06+Guwahati"
-               target="_blank" rel="noopener noreferrer">
-                View on Google Maps
-                <i class="bi bi-box-arrow-up-right"></i>
-            </a>
-
-            <p style="margin-top: 18px;">
-                <strong>2. Chaygaon Works</strong><br>
-                Industrial Area, Chaygaon, Chatabari,<br>
-                Assam - 781124
-            </p>
-            <a href="https://www.google.com/maps/search/?api=1&query=Industrial+Area+Chaygaon+Chatabari+Assam+781124"
-               target="_blank" rel="noopener noreferrer">
-                View on Google Maps
-                <i class="bi bi-box-arrow-up-right"></i>
-            </a>
-        </div>
-    </div>
-
-    <!-- Contact Details -->
-    <div class="prag-location-contact-grid">
-        <div class="prag-location-contact">
-            <div class="prag-location-contact-icon">
-                <i class="bi bi-telephone-fill"></i>
+    <!-- Card 1: Head Office -->
+    <div class="prag-location-card">
+        <div class="prag-location-card-header">
+            <div class="prag-location-company-icon">
+                <i class="bi bi-buildings"></i>
             </div>
-            <div class="prag-location-contact-content">
-                <span>CALL ANY TIME</span>
-                <a href="tel:+919435190931">+91 94351 90931</a>
-            </div>
+            <h3>Head Office</h3>
         </div>
 
-        <div class="prag-location-contact">
-            <div class="prag-location-contact-icon">
-                <i class="bi bi-envelope-fill"></i>
+        <div class="prag-location-address">
+            <div class="prag-location-detail-icon">
+                <i class="bi bi-geo-alt-fill"></i>
             </div>
-            <div class="prag-location-contact-content">
-                <span>EMAIL</span>
-                <a href="mailto:pragelectricals@gmail.com">
-                    pragelectricals@gmail.com
+            <div class="prag-location-detail-content">
+                <span>PRAG ELECTRICALS PVT. LTD.</span>
+                <p>
+                    Shed No. 47,<br>
+                    Bamunimaidan Industrial Estate, Bylane 06,<br>
+                    Guwahati, Assam - 781021
+                </p>
+                <a href="https://www.google.com/maps/search/?api=1&query=Prag+Electricals+Shed+47+Bamunimaidan+Industrial+Estate+Guwahati"
+                   target="_blank" rel="noopener noreferrer">
+                    View on Google Maps
+                    <i class="bi bi-box-arrow-up-right"></i>
                 </a>
             </div>
         </div>
-    </div>
-</div>
 
-            <div class="prag-location-card">
-                <div class="prag-location-card-header">
-                    <div class="prag-location-company-icon">
-                        <i class="bi bi-buildings"></i>
-                    </div>
-
-                    <h3>Prag Energy Systems LLP</h3>
+        <div class="prag-location-contact-grid">
+            <div class="prag-location-contact">
+                <div class="prag-location-contact-icon">
+                    <i class="bi bi-telephone-fill"></i>
                 </div>
-
-                <div class="prag-location-address">
-                    <div class="prag-location-detail-icon">
-                        <i class="bi bi-geo-alt-fill"></i>
-                    </div>
-
-                    <div class="prag-location-detail-content">
-                        <p>
-                            Shed No. 47, Bylane No. 6,<br>
-                            Bamunimaidan Industrial Estate,<br>
-                            Guwahati, Assam – 781021
-                        </p>
-
-                        <a href="https://www.google.com/maps/search/?api=1&query=Shed+No+47+Bylane+No+6+Bamunimaidan+Industrial+Estate+Guwahati+Assam+781021"
-                           target="_blank"
-                           rel="noopener noreferrer">
-                            View on Google Maps
-                            <i class="bi bi-box-arrow-up-right"></i>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="prag-location-contact-grid">
-                    <div class="prag-location-contact">
-                        <div class="prag-location-contact-icon">
-                            <i class="bi bi-telephone-fill"></i>
-                        </div>
-
-                        <div class="prag-location-contact-content">
-                            <span>CALL ANY TIME</span>
-                            <a href="tel:+919435190931">+91 94351 90931</a>
-                        </div>
-                    </div>
-
-                    <div class="prag-location-contact">
-                        <div class="prag-location-contact-icon">
-                            <i class="bi bi-envelope-fill"></i>
-                        </div>
-
-                        <div class="prag-location-contact-content">
-                            <span>EMAIL</span>
-                            <a href="mailto:pragenergysystems@gmail.com">
-                                pragenergysystems@gmail.com
-                            </a>
-                        </div>
-                    </div>
+                <div class="prag-location-contact-content">
+                    <span>CALL ANY TIME</span>
+                    <a href="tel:+919435190931">+91 94351 90931</a>
                 </div>
             </div>
 
+            <div class="prag-location-contact">
+                <div class="prag-location-contact-icon">
+                    <i class="bi bi-envelope-fill"></i>
+                </div>
+                <div class="prag-location-contact-content">
+                    <span>EMAIL</span>
+                    <a href="mailto:pragelectricals@gmail.com">
+                        pragelectricals@gmail.com
+                    </a>
+                </div>
+            </div>
         </div>
+    </div>
+
+    <!-- Card 2: Works & Factory Locations -->
+    <div class="prag-location-card">
+        <div class="prag-location-card-header">
+            <div class="prag-location-company-icon">
+                <i class="bi bi-factory"></i>
+            </div>
+            <h3>Works & Factory Locations</h3>
+        </div>
+
+        <!-- Location 1 -->
+        <div class="prag-location-address">
+            <div class="prag-location-detail-icon">
+                <i class="bi bi-geo-alt-fill"></i>
+            </div>
+            <div class="prag-location-detail-content">
+                <span>UNIT 01 - BAMUNIMAIDAN WORKS</span>
+                <p>
+                    Bamunimaidan Industrial Estate, Bylane 06,<br>
+                    Guwahati, Assam - 781021
+                </p>
+                <a href="https://www.google.com/maps/search/?api=1&query=Bamunimaidan+Industrial+Estate+Bylane+06+Guwahati"
+                   target="_blank" rel="noopener noreferrer">
+                    View on Google Maps
+                    <i class="bi bi-box-arrow-up-right"></i>
+                </a>
+            </div>
+        </div>
+
+        <!-- Location 2 -->
+        <div class="prag-location-address">
+            <div class="prag-location-detail-icon">
+                <i class="bi bi-geo-alt-fill"></i>
+            </div>
+            <div class="prag-location-detail-content">
+                <span>UNIT 02 - CHAYGAON WORKS</span>
+                <p>
+                    Industrial Area, Chaygaon, Chatabari,<br>
+                    Assam - 781124
+                </p>
+                <a href="https://www.google.com/maps/search/?api=1&query=Industrial+Area+Chaygaon+Chatabari+Assam+781124"
+                   target="_blank" rel="noopener noreferrer">
+                    View on Google Maps
+                    <i class="bi bi-box-arrow-up-right"></i>
+                </a>
+            </div>
+        </div>
+
+        <div class="prag-location-contact-grid">
+            <div class="prag-location-contact">
+                <div class="prag-location-contact-icon">
+                    <i class="bi bi-telephone-fill"></i>
+                </div>
+                <div class="prag-location-contact-content">
+                    <span>CALL ANY TIME</span>
+                    <a href="tel:+919435190931">+91 94351 90931</a>
+                </div>
+            </div>
+
+            <div class="prag-location-contact">
+                <div class="prag-location-contact-icon">
+                    <i class="bi bi-envelope-fill"></i>
+                </div>
+                <div class="prag-location-contact-content">
+                    <span>EMAIL</span>
+                    <a href="mailto:pragelectricals@gmail.com">
+                        pragelectricals@gmail.com
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
 
     </div>
 </section>

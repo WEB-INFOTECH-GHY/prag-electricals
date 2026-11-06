@@ -26,7 +26,7 @@ include 'include/header.php';
         <div class="row gy-md-5 gy-4 align-items-lg-end">
             <div class="col-lg-8 col-md-7">
                 <div class="details-content">
-                    <span class="section-subtitle">PRAG ELECTRICALS PVT. LTD.</span>
+                    <!-- <span class="section-subtitle">PRAG ELECTRICALS PVT. LTD.</span> -->
                     <h2>Pressed Steel Radiators for Transformer Cooling</h2>
                     <p>
                         Prag Electricals Pvt. Ltd., established in 1977 and based in Guwahati, Assam,

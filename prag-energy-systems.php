@@ -28,7 +28,7 @@ include 'include/header.php';
             <div class="col-lg-8 col-md-7">
                 <div class="details-content">
 
-                    <span class="section-subtitle">PRAG ENERGY SYSTEMS LLP</span>
+                    <!-- <span class="section-subtitle">PRAG ENERGY SYSTEMS LLP</span> -->
 
                     <h2>Electrical Energy Assessment, Audit & Optimization</h2>
 

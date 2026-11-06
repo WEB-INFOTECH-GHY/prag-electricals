@@ -171,7 +171,7 @@ include 'include/header.php';
      data-wow-duration="1500ms">
     <div class="product-card">
         <div class="product-img">
-            <img src="https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=800&q=85"
+            <img src="web/solution/5.png"
                  alt="Electrical Equipment Maintenance">
             <a href="annual-maintenance-contract.php" class="arrow"
                aria-label="Explore Annual Maintenance Contract">
@@ -200,7 +200,7 @@ include 'include/header.php';
      data-wow-duration="1500ms">
     <div class="product-card">
         <div class="product-img">
-            <img src="https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&w=800&q=85"
+            <img src="web/solution/6.png"
                  alt="Industrial Electrical Equipment">
             <a href="buy-back-policy.php" class="arrow"
                aria-label="Explore Buy Back Policy">
