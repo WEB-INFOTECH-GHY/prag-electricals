@@ -37,7 +37,7 @@ include 'include/header.php';
         <div class="container">
             <div class="contact-wrapper">
                 <div class="row gy-5 align-items-center">
-                    <div class="col-lg-4 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
+                    <!-- <div class="col-lg-4 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
                         <div class="contact-content">
                             <div class="section-title two">
                                 
@@ -86,8 +86,8 @@ include 'include/header.php';
                                 </li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="col-lg-8 wow animate fadeInRight" data-wow-delay="200ms" data-wow-duration="1500ms">
+                    </div> -->
+                    <div class="col-lg-12 wow animate fadeInRight" data-wow-delay="200ms" data-wow-duration="1500ms">
                         <div class="contact-form-wrap two">
                             <form>
                                 <div class="row g-4">
@@ -236,18 +236,18 @@ document.addEventListener('DOMContentLoaded', function () {
 
         <div class="prag-locations-header">
             <div class="prag-locations-heading">
-                <div class="prag-locations-eyebrow">
+                <!-- <div class="prag-locations-eyebrow">
                     <span></span>
                     OUR LOCATIONS
-                </div>
+                </div> -->
 
                 <h2>
-                    Factory <span>Locations</span>
+                    Our <span>Locations</span>
                 </h2>
 
-                <p>
+                <!-- <p>
                     Our manufacturing and operational facilities in Guwahati, Assam.
-                </p>
+                </p> -->
             </div>
 
             <!-- <a href="contact.html" class="prag-locations-view-all">
@@ -287,37 +287,13 @@ document.addEventListener('DOMContentLoaded', function () {
                 </a>
             </div>
         </div>
-
-        <div class="prag-location-contact-grid">
-            <div class="prag-location-contact">
-                <div class="prag-location-contact-icon">
-                    <i class="bi bi-telephone-fill"></i>
-                </div>
-                <div class="prag-location-contact-content">
-                    <span>CALL ANY TIME</span>
-                    <a href="tel:+919435190931">+91 94351 90931</a>
-                </div>
-            </div>
-
-            <div class="prag-location-contact">
-                <div class="prag-location-contact-icon">
-                    <i class="bi bi-envelope-fill"></i>
-                </div>
-                <div class="prag-location-contact-content">
-                    <span>EMAIL</span>
-                    <a href="mailto:pragelectricals@gmail.com">
-                        pragelectricals@gmail.com
-                    </a>
-                </div>
-            </div>
-        </div>
     </div>
 
     <!-- Card 2: Works & Factory Locations -->
     <div class="prag-location-card">
         <div class="prag-location-card-header">
             <div class="prag-location-company-icon">
-                <i class="bi bi-factory"></i>
+                <i class="bi bi-buildings"></i>
             </div>
             <h3>Works & Factory Locations</h3>
         </div>
@@ -360,29 +336,6 @@ document.addEventListener('DOMContentLoaded', function () {
             </div>
         </div>
 
-        <div class="prag-location-contact-grid">
-            <div class="prag-location-contact">
-                <div class="prag-location-contact-icon">
-                    <i class="bi bi-telephone-fill"></i>
-                </div>
-                <div class="prag-location-contact-content">
-                    <span>CALL ANY TIME</span>
-                    <a href="tel:+919435190931">+91 94351 90931</a>
-                </div>
-            </div>
-
-            <div class="prag-location-contact">
-                <div class="prag-location-contact-icon">
-                    <i class="bi bi-envelope-fill"></i>
-                </div>
-                <div class="prag-location-contact-content">
-                    <span>EMAIL</span>
-                    <a href="mailto:pragelectricals@gmail.com">
-                        pragelectricals@gmail.com
-                    </a>
-                </div>
-            </div>
-        </div>
     </div>
 
 </div>
@@ -390,10 +343,187 @@ document.addEventListener('DOMContentLoaded', function () {
     </div>
 </section>
 
+
+
+<!-- Separate Contact Information Section -->
+<div class="prag-contact-strip">
+
+   
+
+    <a href="tel:+919435190931" class="prag-contact-item">
+        <div class="prag-contact-icon">
+            <i class="bi bi-telephone-fill"></i>
+        </div>
+        <div class="prag-contact-info">
+            <span>CALL US</span>
+            <strong>+91 94351 90931</strong>
+        </div>
+        <i class="bi bi-arrow-up-right prag-contact-arrow"></i>
+    </a>
+
+    <a href="mailto:pragelectricals@gmail.com" class="prag-contact-item">
+        <div class="prag-contact-icon">
+            <i class="bi bi-envelope-fill"></i>
+        </div>
+        <div class="prag-contact-info">
+            <span>EMAIL US</span>
+            <strong>pragelectricals@gmail.com</strong>
+        </div>
+        <i class="bi bi-arrow-up-right prag-contact-arrow"></i>
+    </a>
+
+</div>
+
 <style>
+
+
+/* ================================
+   PRAG CONTACT STRIP
+================================ */
+
+.prag-contact-strip {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    align-items: center;
+    gap: 25px;
+    margin-top: 30px;
+    padding: 30px 35px;
+    background: #fff;
+    border: 1px solid #eeeeee;
+    border-left: 4px solid #c91d2e;
+    border-radius: 10px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.035);
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.prag-contact-intro {
+    padding-right: 15px;
+}
+
+.prag-contact-eyebrow {
+    display: inline-block;
+    color: #c91d2e;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 8px;
+}
+
+.prag-contact-intro h3 {
+    font-size: 21px;
+    font-weight: 700;
+    color: #222;
+    margin: 0 0 7px;
+}
+
+.prag-contact-intro p {
+    font-size: 13px;
+    line-height: 1.6;
+    color: #777;
+    margin: 0;
+}
+
+/* Contact Items */
+
+.prag-contact-item {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    min-width: 0;
+    padding: 15px;
+    text-decoration: none !important;
+    background: #fafafa;
+    border: 1px solid #f0f0f0;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.prag-contact-item:hover {
+    background: #fff5f5;
+    border-color: #e9bfc3;
+    transform: translateY(-3px);
+}
+
+.prag-contact-icon {
+    width: 44px;
+    height: 44px;
+    min-width: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #c91d2e;
+    color: #fff;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+.prag-contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    min-width: 0;
+}
+
+.prag-contact-info span {
+    font-size: 10px;
+    font-weight: 700;
+    color: #999;
+    letter-spacing: 1.3px;
+}
+
+.prag-contact-info strong {
+    font-size: 14px;
+    font-weight: 600;
+    color: #252525;
+    overflow-wrap: anywhere;
+}
+
+.prag-contact-arrow {
+    margin-left: auto;
+    color: #c91d2e;
+    font-size: 17px;
+    transition: transform 0.3s ease;
+}
+
+.prag-contact-item:hover .prag-contact-arrow {
+    transform: translate(3px, -3px);
+}
+
+/* Responsive */
+
+@media (max-width: 991px) {
+    .prag-contact-strip {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .prag-contact-intro {
+        grid-column: 1 / -1;
+    }
+}
+
+@media (max-width: 576px) {
+    .prag-contact-strip {
+        grid-template-columns: 1fr;
+        gap: 15px;
+        padding: 22px 18px;
+    }
+
+    .prag-contact-intro {
+        grid-column: auto;
+        padding-right: 0;
+        margin-bottom: 5px;
+    }
+
+    .prag-contact-info strong {
+        font-size: 13px;
+    }
+}
+
+
     .prag-locations-section {
     position: relative;
-    padding: 100px 0;
+    padding: 20px 0;
     background: #fbfcfd;
     overflow: hidden;
     isolation: isolate;

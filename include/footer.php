@@ -15,7 +15,7 @@
                                 alt="Prag Electricals Pvt. Ltd.">
 
                             <span class="prag-est-year">
-                                EST. 1977
+                                EST. 1976
                             </span>
 
                         </a>
@@ -196,7 +196,7 @@
 
                                                 <li>
                                                     <a href="blog.php">
-                                                        Blogs
+                                                        Insight
                                                         <svg width="9" height="9" viewBox="0 0 9 9" xmlns="http://www.w3.org/2000/svg">
                                                             <path d="M0.0445549 0H9.00008V1.67647L1.69308 9L0 7.32353L4.99014 2.38235L0.0445549 2.42647V0Z" />
                                                             <path d="M9.0002 8.9996V3.35254L6.59424 5.73489V8.9996H9.0002Z" />
@@ -381,7 +381,7 @@
                                                         <i class="bi bi-telephone"></i>
                                                     </div>
                                                     <div class="content">
-                                                        <span>CALL ANY TIME</span>
+                                                        <span>CALL DURING WORKING HOURS</span>
                                                         <h6>
                                                             <a href="tel:+919435190931">
                                                                 +91 94351 90931

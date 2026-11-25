@@ -14443,7 +14443,7 @@ header.style-4 .mobile-logo-area .menu-close-btn:hover i {
   padding: 45px 50px;
   background-color: #FAF8FB;
   border-radius: 20px;
-  margin-left: 50px;
+  /* margin-left: 50px; */
 }
 @media (max-width: 1399px) {
   .contact-form-wrap {
@@ -26395,7 +26395,7 @@ header.style-4 .mobile-logo-area .menu-close-btn:hover i {
 }
 .inner-contact-section.two {
   background-image: unset;
-  padding: 120px 0 0;
+  padding: 20px 0 0;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .inner-contact-section.two {

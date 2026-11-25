@@ -15,10 +15,10 @@
             data-wow-duration="1200ms">
 
             <!-- Eyebrow -->
-            <div class="prag-hero-eyebrow">
+            <!-- <div class="prag-hero-eyebrow">
                 RELIABLE POWER
                 <span>FOR A STRONGER TOMORROW</span>
-            </div>
+            </div> -->
 
             <!-- Main Heading -->
             <h1 class="prag-hero-title">
@@ -30,11 +30,11 @@
             </h1>
 
             <!-- Description -->
-            <p class="prag-hero-description">
+            <!-- <p class="prag-hero-description">
                 Transformers. Radiators. Electrical Projects.
                 <br class="prag-desktop-break">
                 Built in Assam. Trusted across Northeast India.
-            </p>
+            </p> -->
 
             <!-- CTA -->
             <div class="prag-hero-actions">
@@ -89,10 +89,10 @@
                 data-wow-duration="1500ms">
 
                 <div class="section-title two">
-                    <span>Industries We Serve</span>
+                    <!-- <span>Industries We Serve</span> -->
 
                     <h2>
-                        Partner in a
+                        Partners in a
                         <br>
                         Strong Tomorrow.
                     </h2>
@@ -100,13 +100,13 @@
 
             </div>
 
-            <div class="col-lg-4">
+            <!-- <div class="col-lg-4">
                 <p class="mb-0">
                     From utilities and manufacturing to critical infrastructure,
                     Prag Electricals delivers reliable transformer and electrical
                     solutions across diverse sectors.
                 </p>
-            </div>
+            </div> -->
 
         </div>
 
@@ -280,14 +280,14 @@
                 <h2>Infrastructure Built for Quality &amp; Performance.</h2>
             </div>
 
-            <div class="prag-infrastructure-intro">
+            <!-- <div class="prag-infrastructure-intro">
                 <p>
                     Our manufacturing and technical infrastructure enables us
                     to support transformer manufacturing, radiator production,
                     fabrication, testing and electrical project requirements
                     with reliable in-house capabilities.
                 </p>
-            </div>
+            </div> -->
         </div>
 
         <div class="prag-infrastructure-grid">
@@ -301,11 +301,11 @@
                     <!-- <span>Manufacturing Facility</span> -->
                     <h3>40,000</h3>
                     <strong>Sq. Ft. Shed Area</strong>
-                    <p>
+                    <!-- <p>
                         Spacious manufacturing infrastructure designed to
                         support transformer production and associated
                         electrical manufacturing activities.
-                    </p>
+                    </p> -->
                 </div>
 
                 <div class="prag-infrastructure-number">01</div>
@@ -316,7 +316,7 @@
                     <h4>Transformer Manufacturing Facilities</h4>
                     <p>
                         Manufacturing facilities supporting distribution and
-                        power transformer production up to 5.0 MVA.
+                        power transformer production up to 11/0.433 kV.
                     </p>
                 </div>
                 <div class="prag-infrastructure-number">02</div>
@@ -327,7 +327,7 @@
                     <h4>Radiator Manufacturing</h4>
                     <p>
                         Dedicated manufacturing facilities for pressed steel
-                        radiators used in transformer applications.
+                        radiators.
                     </p>
                 </div>
                 <div class="prag-infrastructure-number">03</div>
@@ -337,8 +337,7 @@
                 <div class="prag-infrastructure-content">
                     <h4>Fabrication</h4>
                     <p>
-                        In-house fabrication capabilities supporting transformer
-                        manufacturing and electrical project requirements.
+                        In-house fabrication capabilities.
                     </p>
                 </div>
                 <div class="prag-infrastructure-number">04</div>
@@ -348,8 +347,8 @@
                 <div class="prag-infrastructure-content">
                     <h4>Testing &amp; Quality Control</h4>
                     <p>
-                        Testing and quality-control facilities supporting
-                        manufacturing standards and dependable performance.
+                        Testing and quality-control facilities supporting applicable
+                        manufacturing standards.
                     </p>
                 </div>
                 <div class="prag-infrastructure-number">05</div>
@@ -359,9 +358,7 @@
                 <div class="prag-infrastructure-content">
                     <h4>Machinery &amp; Production</h4>
                     <p>
-                        Supporting machinery and production infrastructure
-                        designed to strengthen manufacturing capability
-                        and production workflows.
+                        Research and development (R&D)
                     </p>
                 </div>
                 <div class="prag-infrastructure-number">06</div>
@@ -373,7 +370,7 @@
         <h4>In-House Coil Winding</h4>
         <p>
             Dedicated in-house coil winding facilities supporting
-            transformer manufacturing requirements.
+            transformer manufacturing.
         </p>
     </div>
     <div class="prag-infrastructure-number">07</div>
@@ -473,15 +470,15 @@
         gap: 24px;
     }
 
-    .prag-infrastructure-card {
-        position: relative;
-        min-height: 285px;
-        padding: 34px 32px;
-        background: #ffffff;
-        border: 1px solid #e8e8e8;
-        overflow: hidden;
-        transition: all 0.35s ease;
-    }
+.prag-infrastructure-card {
+    position: relative;
+    min-height: 150px;
+    padding: 28px 22px;
+    background: #ffffff;
+    border: 1px solid #e8e8e8;
+    overflow: hidden;
+    transition: all 0.35s ease;
+}
 
     .prag-infrastructure-card::before {
         content: "";
@@ -708,131 +705,6 @@
 </style>
 
 
-
-
-
-
-
-
-
-
-
-<!-- Prag Solutions Section Start -->
-<!-- <div class="home2-project-section mb-30 prag-solutions-section">
-    <div class="container">
-        <div class="row g-4 align-items-end justify-content-between mb-60">
-            <div class="col-lg-7 wow animate fadeInLeft"
-                data-wow-delay="200ms"
-                data-wow-duration="1500ms">
-                <div class="section-title two">
-                    <span>Our Solutions</span>
-                    <h2>
-                        Engineered for
-                        <br>
-                        a more efficient tomorrow.
-                    </h2>
-                </div>
-            </div>
-            <div class="col-lg-4 wow animate fadeInRight"
-                data-wow-delay="200ms"
-                data-wow-duration="1500ms">
-                <div class="prag-solutions-intro">
-                    <p>
-                        We design, manufacture and support critical electrical
-                        infrastructure that helps industries, utilities and
-                        communities operate with greater reliability and efficiency.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="project-wrapper">
-            <div class="project-card-area">
-                <div class="project-card2 prag-solution-card wow animate fadeInUp"
-                    data-wow-delay="200ms"
-                    data-wow-duration="1200ms">
-                    <a href="transformers.php" class="project-img">
-                        <img loading="lazy" decoding="async"
-                            src="web/solution/1.png"
-                            alt="Distribution and Power Transformers">
-                    </a>
-                    <div class="project-content">
-                        <span>PRAG ELECTRICALS PVT. LTD.</span>
-                        <h4>
-                            <a href="transformers.php">
-                                Transformers
-                            </a>
-                        </h4>
-                        <p>
-                            Distribution and power transformers engineered
-                            for reliability, with manufacturing capabilities
-                            up to 5.0 MVA.
-                        </p>
-                        <a href="transformers.php"
-                            class="prag-solution-arrow"
-                            aria-label="View Transformer Solutions">
-                            <span>→</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="project-card2 prag-solution-card wow animate fadeInUp"
-                    data-wow-delay="400ms"
-                    data-wow-duration="1200ms">
-                    <a href="pressed-steel-radiator.php" class="project-img">
-                        <img loading="lazy" decoding="async"
-                            src="web/solution/2.png"
-                            alt="Pressed Steel Radiators">
-                    </a>
-                    <div class="project-content">
-                        <span>PRAG ELECTRICALS PVT. LTD.</span>
-                        <h4>
-                            <a href="pressed-steel-radiator.php">
-                                Pressed Steel Radiators
-                            </a>
-                        </h4>
-                        <p>
-                            Precision cooling components designed for
-                            transformer applications and dependable thermal
-                            performance.
-                        </p>
-                        <a href="pressed-steel-radiator.php"
-                            class="prag-solution-arrow"
-                            aria-label="View Radiator Solutions">
-                            <span>→</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="project-card2 prag-solution-card wow animate fadeInUp"
-                    data-wow-delay="600ms"
-                    data-wow-duration="1200ms">
-                    <a href="prag-energy-systems.php" class="project-img">
-                        <img loading="lazy" decoding="async"
-                            src="web/solution/3.png"
-                            alt="Electrical Energy Optimization">
-                    </a>
-                    <div class="project-content">
-                        <span>PRAG ENERGY SYSTEMS LLP</span>
-                        <h4>
-                            <a href="prag-energy-systems.php">
-                                Energy Optimization
-                            </a>
-                        </h4>
-                        <p>
-                            Electrical energy assessment, system analysis and
-                            practical solutions that help identify energy
-                            losses and improve efficiency.
-                        </p>
-                        <a href="prag-energy-systems.php"
-                            class="prag-solution-arrow"
-                            aria-label="View Energy Solutions">
-                            <span>→</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> -->
-<!-- Prag Solutions Section End -->
 
 
 
@@ -1111,8 +983,7 @@
                                 <div class="accordion-body">
                                     In addition to distribution and power
                                     transformers, Prag Electricals manufactures
-                                    pressed steel radiators for transformer
-                                    cooling applications.
+                                    pressed steel radiators.
                                 </div>
 
                             </div>
