@@ -7,12 +7,12 @@
     <div class="container">
         <div class="breadcrumb-content">
             <!-- <span>Contact Us</span> -->
-            <h1>Our Blogs</h1>
+            <h1>Our Insight</h1>
 
             <div class="breadcrumb-nav">
                 <a href="index.php">Home</a>
                 <i class="bi bi-chevron-right"></i>
-                <span>Blogs</span>
+                <span>Insight</span>
             </div>
         </div>
     </div>

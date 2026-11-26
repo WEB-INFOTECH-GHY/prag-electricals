@@ -262,6 +262,8 @@ $canonicalUrl = $protocol . $domain . $currentPath;
                     alt="Prag Electricals Pvt. Ltd."
                     class="img-fluid"
                 >
+                <br>
+                EST. 1976
             </a>
 
             <a href="index.php" class="logo-white">
@@ -270,6 +272,7 @@ $canonicalUrl = $protocol . $domain . $currentPath;
                     alt="Prag Electricals Pvt. Ltd."
                     class="img-fluid"
                 >
+                EST. 1976
             </a>
 
         </div>
@@ -289,6 +292,7 @@ $canonicalUrl = $protocol . $domain . $currentPath;
                             alt="Prag Electricals Pvt. Ltd."
                             class="img-fluid"
                         >
+                        EST. 1976
                     </a>
 
                     <div class="menu-close-btn">

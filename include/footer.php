@@ -293,7 +293,7 @@
                                     <div class="footer-widget">
 
                                         <div class="widget-title">
-                                            <h5>Documents</h5>
+                                            <h5>DOCUMENTS</h5>
                                         </div>
 
                                         <div class="menu-container">
@@ -366,11 +366,11 @@
                                         color: #fff;
                                     }
                                 </style>
-                                <div class="col-md-4 col-sm-6 d-flex justify-content-lg-end">
+                                <div class="col-md-4 col-sm-6 d-flex justify-content-lg-end" >
                                     <div class="footer-widget">
 
-                                        <div class="widget-title">
-                                            <h5>Contact Us</h5>
+                                        <div class="widget-title" style="margin-left:10px;">
+                                            <h5>CONTACT US</h5>
                                         </div>
 
                                         <ul class="contact-area">

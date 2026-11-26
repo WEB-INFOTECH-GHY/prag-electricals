@@ -82,7 +82,7 @@
 <div class="home2-service-section mb-30">
     <div class="container">
 
-        <div class="row g-4 align-items-end justify-content-between mb-70">
+        <div class="row g-4 align-items-end justify-content-between mb-20">
 
             <div class="col-lg-7 wow animate fadeInLeft"
                 data-wow-delay="200ms"
@@ -316,7 +316,7 @@
                     <h4>Transformer Manufacturing Facilities</h4>
                     <p>
                         Manufacturing facilities supporting distribution and
-                        power transformer production up to 11/0.433 kV.
+                        power transformer production up to 5mva ,11/0433 kv.
                     </p>
                 </div>
                 <div class="prag-infrastructure-number">02</div>
@@ -356,9 +356,9 @@
 
             <div class="prag-infrastructure-card">
                 <div class="prag-infrastructure-content">
-                    <h4>Machinery &amp; Production</h4>
+                    <h4>Research and development (R&D)</h4>
                     <p>
-                        Research and development (R&D)
+                        Our transformers are designed and engineered in-house by our experienced technical team, ensuring quality, reliability, and compliance with IS standards
                     </p>
                 </div>
                 <div class="prag-infrastructure-number">06</div>
@@ -921,7 +921,7 @@
                                     Prag Electricals Pvt. Ltd. manufactures
                                     distribution and power transformers of
                                     various ratings and capacities up to
-                                    5.0 MVA, as per applicable BIS standards.
+                                     5mva , 11/0.433 kv  as per applicable BIS standards.
                                 </div>
 
                             </div>
@@ -1148,7 +1148,7 @@
 <!-- home2 Blog Section Start-->
 <div class="home2-blog-section mb-120 prag-blog-no-image">
     <div class="container">
-        <div class="row g-4 align-items-center justify-content-between mb-70">
+        <div class="row g-4 align-items-center justify-content-between mb-20">
             <div class="col-lg-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
                 <div class="section-title two">
                     <!-- <span>Insights from Prag Electricals</span> -->
@@ -1251,7 +1251,7 @@
 
     .prag-blog-no-image .blog-card.two {
         min-height: auto;
-        padding: 25px 20px;
+        padding: 10px 0px;
     }
 }
 

@@ -3452,7 +3452,9 @@ header.style-2.sticky {
   animation: smooth-header 0.65s linear;
 }
 header.style-2.sticky .company-logo .logo-black {
-  display: block;
+  display: flex;
+  color: black;
+  line-height: 1;
 }
 header.style-2.sticky .company-logo .logo-white {
   display: none;
@@ -9544,15 +9546,20 @@ header.style-4 .mobile-logo-area .menu-close-btn:hover i {
   padding: 10px 15px;
   background-color: var(--white-color);
 }
+
+
 .blog-card .blog-meta ul {
-  padding: 0;
-  margin: 0;
-  list-style: none;
-  display: flex;
-  align-items: center;
-  gap: 25px;
-  line-height: 1;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 9px;
+    line-height: 1;
 }
+
+
 .blog-card .blog-meta ul li {
   position: relative;
 }
@@ -32077,4 +32084,18 @@ header.style-4 .mobile-logo-area .menu-close-btn:hover i {
 
 .breadcrumb-nav span {
     color: rgba(255, 255, 255, 0.75);
+}
+
+
+.company-logo a , .logo-black{
+  display: flex;
+  flex-direction: column !important;
+  color: black;
+}
+
+
+.mobile-logo-wrap{
+  display: flex !important;
+  flex-direction: column;
+  color: black;
 }
